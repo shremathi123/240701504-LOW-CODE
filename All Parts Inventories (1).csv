@@ -1,0 +1,203 @@
+Part ID,Part Name,Part Category,Part Number,Compatible Equipment,Quantity Available,Reorder Level
+202,Airflow Sensor 200,Sensors,S-200,Ventilator,38,10
+201,Display Driver Board 199,Electrical Components,EC-199,ECG Machine,31,7
+200,Patient Circuit Tubing 198,Filters and Tubing,FAT-198,Multiple Equipment Types,24,20
+199,Pump Motor 197,Mechanical Components,MC-197,Infusion Pump,17,17
+198,Backup Battery 196,Batteries,B-196,Multiple Equipment Types,10,14
+197,USB Data Cable 195,Cables and Connectors,CAC-195,Infusion Pump,94,11
+196,SpO2 Sensor 194,Sensors,S-194,Multiple Equipment Types,87,8
+195,Fuse Assembly 193,Electrical Components,EC-193,Infusion Pump,80,5
+194,Air Intake Filter 192,Filters and Tubing,FAT-192,Defibrillator,73,18
+193,Gear Assembly 191,Mechanical Components,MC-191,Patient Monitor,66,15
+192,Lithium Ion Battery 190,Batteries,B-190,Defibrillator,59,12
+191,Sensor Connector 189,Cables and Connectors,CAC-189,Patient Monitor,52,9
+190,Oxygen Sensor 188,Sensors,S-188,Defibrillator,45,6
+189,Power Adapter 187,Electrical Components,EC-187,Patient Monitor,38,19
+188,Oxygen Tubing 186,Filters and Tubing,FAT-186,ECG Machine,31,16
+187,Valve Assembly 185,Mechanical Components,MC-185,Ventilator,24,13
+186,Rechargeable Battery Pack 184,Batteries,B-184,ECG Machine,17,10
+185,Patient Cable 183,Cables and Connectors,CAC-183,Ventilator,10,7
+184,Flow Sensor 182,Sensors,S-182,ECG Machine,94,20
+183,Circuit Breaker 181,Electrical Components,EC-181,Ventilator,87,17
+182,Ventilator Air Filter 180,Filters and Tubing,FAT-180,Infusion Pump,80,14
+181,Cooling Fan 179,Mechanical Components,MC-179,Multiple Equipment Types,73,11
+180,Pump Battery 178,Batteries,B-178,Infusion Pump,66,8
+179,Power Cable 177,Cables and Connectors,CAC-177,Multiple Equipment Types,59,5
+178,Temperature Sensor 176,Sensors,S-176,Infusion Pump,52,18
+177,Control Board 175,Electrical Components,EC-175,Multiple Equipment Types,45,15
+176,Ventilator Breathing Circuit Filter 174,Filters and Tubing,FAT-174,Patient Monitor,38,12
+175,Mounting Bracket 173,Mechanical Components,MC-173,Defibrillator,31,9
+174,Ventilator Battery 172,Batteries,B-172,Patient Monitor,24,6
+173,ECG Lead Cable 171,Cables and Connectors,CAC-171,Defibrillator,17,19
+172,Pressure Sensor 170,Sensors,S-170,Patient Monitor,10,16
+171,Power Supply Module 169,Electrical Components,EC-169,Defibrillator,94,13
+170,Suction Tubing 168,Filters and Tubing,FAT-168,Ventilator,87,10
+169,Support Clamp 167,Mechanical Components,MC-167,ECG Machine,80,7
+168,Portable Monitor Battery 166,Batteries,B-166,Ventilator,73,20
+167,Probe Extension Cable 165,Cables and Connectors,CAC-165,ECG Machine,66,17
+166,Proximity Sensor 164,Sensors,S-164,Ventilator,59,14
+165,Relay Module 163,Electrical Components,EC-163,ECG Machine,52,11
+164,Bacterial Filter 162,Filters and Tubing,FAT-162,Multiple Equipment Types,45,8
+163,Panel Hinge 161,Mechanical Components,MC-161,Infusion Pump,38,5
+162,Backup Battery 160,Batteries,B-160,Multiple Equipment Types,31,18
+161,Mains Connector 159,Cables and Connectors,CAC-159,Infusion Pump,24,15
+160,Airflow Sensor 158,Sensors,S-158,Multiple Equipment Types,17,12
+159,Display Driver Board 157,Electrical Components,EC-157,Infusion Pump,10,9
+158,Patient Circuit Tubing 156,Filters and Tubing,FAT-156,Defibrillator,94,6
+157,Pump Motor 155,Mechanical Components,MC-155,Patient Monitor,87,19
+156,Lithium Ion Battery 154,Batteries,B-154,Defibrillator,80,16
+155,USB Data Cable 153,Cables and Connectors,CAC-153,Patient Monitor,73,13
+154,SpO2 Sensor 152,Sensors,S-152,Defibrillator,66,10
+153,Fuse Assembly 151,Electrical Components,EC-151,Patient Monitor,59,7
+152,Air Intake Filter 150,Filters and Tubing,FAT-150,ECG Machine,52,20
+151,Gear Assembly 149,Mechanical Components,MC-149,Ventilator,45,17
+150,Rechargeable Battery Pack 148,Batteries,B-148,ECG Machine,38,14
+149,Sensor Connector 147,Cables and Connectors,CAC-147,Ventilator,31,11
+148,Oxygen Sensor 146,Sensors,S-146,ECG Machine,24,8
+147,Power Adapter 145,Electrical Components,EC-145,Ventilator,17,5
+146,Oxygen Tubing 144,Filters and Tubing,FAT-144,Infusion Pump,10,18
+145,Valve Assembly 143,Mechanical Components,MC-143,Multiple Equipment Types,94,15
+144,Pump Battery 142,Batteries,B-142,Infusion Pump,87,12
+143,Patient Cable 141,Cables and Connectors,CAC-141,Multiple Equipment Types,80,9
+142,Flow Sensor 140,Sensors,S-140,Infusion Pump,73,6
+141,Circuit Breaker 139,Electrical Components,EC-139,Multiple Equipment Types,66,19
+140,Ventilator Air Filter 138,Filters and Tubing,FAT-138,Patient Monitor,59,16
+139,Cooling Fan 137,Mechanical Components,MC-137,Defibrillator,52,13
+138,Ventilator Battery 136,Batteries,B-136,Patient Monitor,45,10
+137,Power Cable 135,Cables and Connectors,CAC-135,Defibrillator,38,7
+136,Temperature Sensor 134,Sensors,S-134,Patient Monitor,31,20
+135,Control Board 133,Electrical Components,EC-133,Defibrillator,24,17
+134,Ventilator Breathing Circuit Filter 132,Filters and Tubing,FAT-132,Ventilator,17,14
+133,Mounting Bracket 131,Mechanical Components,MC-131,ECG Machine,10,11
+132,Portable Monitor Battery 130,Batteries,B-130,Ventilator,94,8
+131,ECG Lead Cable 129,Cables and Connectors,CAC-129,ECG Machine,87,5
+130,Pressure Sensor 128,Sensors,S-128,Ventilator,80,18
+129,Power Supply Module 127,Electrical Components,EC-127,ECG Machine,73,15
+128,Suction Tubing 126,Filters and Tubing,FAT-126,Multiple Equipment Types,66,12
+127,Support Clamp 125,Mechanical Components,MC-125,Infusion Pump,59,9
+126,Backup Battery 124,Batteries,B-124,Multiple Equipment Types,52,6
+125,Probe Extension Cable 123,Cables and Connectors,CAC-123,Infusion Pump,45,19
+124,Proximity Sensor 122,Sensors,S-122,Multiple Equipment Types,38,16
+123,Relay Module 121,Electrical Components,EC-121,Infusion Pump,31,13
+122,Bacterial Filter 120,Filters and Tubing,FAT-120,Defibrillator,24,10
+121,Panel Hinge 119,Mechanical Components,MC-119,Patient Monitor,17,7
+120,Lithium Ion Battery 118,Batteries,B-118,Defibrillator,10,20
+119,Mains Connector 117,Cables and Connectors,CAC-117,Patient Monitor,94,17
+118,Airflow Sensor 116,Sensors,S-116,Defibrillator,87,14
+117,Display Driver Board 115,Electrical Components,EC-115,Patient Monitor,80,11
+116,Patient Circuit Tubing 114,Filters and Tubing,FAT-114,ECG Machine,73,8
+115,Pump Motor 113,Mechanical Components,MC-113,Ventilator,66,5
+114,Rechargeable Battery Pack 112,Batteries,B-112,ECG Machine,59,18
+113,USB Data Cable 111,Cables and Connectors,CAC-111,Ventilator,52,15
+112,SpO2 Sensor 110,Sensors,S-110,ECG Machine,45,12
+111,Fuse Assembly 109,Electrical Components,EC-109,Ventilator,38,9
+110,Air Intake Filter 108,Filters and Tubing,FAT-108,Infusion Pump,31,6
+109,Gear Assembly 107,Mechanical Components,MC-107,Multiple Equipment Types,24,19
+108,Pump Battery 106,Batteries,B-106,Infusion Pump,17,16
+107,Sensor Connector 105,Cables and Connectors,CAC-105,Multiple Equipment Types,10,13
+106,Oxygen Sensor 104,Sensors,S-104,Infusion Pump,94,10
+105,Power Adapter 103,Electrical Components,EC-103,Multiple Equipment Types,87,7
+104,Oxygen Tubing 102,Filters and Tubing,FAT-102,Patient Monitor,80,20
+103,Valve Assembly 101,Mechanical Components,MC-101,Defibrillator,73,17
+102,Ventilator Battery 100,Batteries,B-100,Patient Monitor,66,14
+101,Patient Cable 099,Cables and Connectors,CAC-099,Defibrillator,59,11
+100,Flow Sensor 098,Sensors,S-098,Patient Monitor,52,8
+99,Circuit Breaker 097,Electrical Components,EC-097,Defibrillator,45,5
+98,Ventilator Air Filter 096,Filters and Tubing,FAT-096,Ventilator,38,18
+97,Cooling Fan 095,Mechanical Components,MC-095,ECG Machine,31,15
+96,Portable Monitor Battery 094,Batteries,B-094,Ventilator,24,12
+95,Power Cable 093,Cables and Connectors,CAC-093,ECG Machine,17,9
+94,Temperature Sensor 092,Sensors,S-092,Ventilator,10,6
+93,Control Board 091,Electrical Components,EC-091,ECG Machine,94,19
+92,Ventilator Breathing Circuit Filter 090,Filters and Tubing,FAT-090,Multiple Equipment Types,87,16
+91,Mounting Bracket 089,Mechanical Components,MC-089,Infusion Pump,80,13
+90,Backup Battery 088,Batteries,B-088,Multiple Equipment Types,73,10
+89,ECG Lead Cable 087,Cables and Connectors,CAC-087,Infusion Pump,66,7
+88,Pressure Sensor 086,Sensors,S-086,Multiple Equipment Types,59,20
+87,Power Supply Module 085,Electrical Components,EC-085,Infusion Pump,52,17
+86,Suction Tubing 084,Filters and Tubing,FAT-084,Defibrillator,45,14
+85,Support Clamp 083,Mechanical Components,MC-083,Patient Monitor,38,11
+84,Lithium Ion Battery 082,Batteries,B-082,Defibrillator,31,8
+83,Probe Extension Cable 081,Cables and Connectors,CAC-081,Patient Monitor,24,5
+82,Proximity Sensor 080,Sensors,S-080,Defibrillator,17,18
+81,Relay Module 079,Electrical Components,EC-079,Patient Monitor,10,15
+80,Bacterial Filter 078,Filters and Tubing,FAT-078,ECG Machine,94,12
+79,Panel Hinge 077,Mechanical Components,MC-077,Ventilator,87,9
+78,Rechargeable Battery Pack 076,Batteries,B-076,ECG Machine,80,6
+77,Mains Connector 075,Cables and Connectors,CAC-075,Ventilator,73,19
+76,Airflow Sensor 074,Sensors,S-074,ECG Machine,66,16
+75,Display Driver Board 073,Electrical Components,EC-073,Ventilator,59,13
+74,Patient Circuit Tubing 072,Filters and Tubing,FAT-072,Infusion Pump,52,10
+73,Pump Motor 071,Mechanical Components,MC-071,Multiple Equipment Types,45,7
+72,Pump Battery 070,Batteries,B-070,Infusion Pump,38,20
+71,USB Data Cable 069,Cables and Connectors,CAC-069,Multiple Equipment Types,31,17
+70,SpO2 Sensor 068,Sensors,S-068,Infusion Pump,24,14
+69,Fuse Assembly 067,Electrical Components,EC-067,Multiple Equipment Types,17,11
+68,Air Intake Filter 066,Filters and Tubing,FAT-066,Patient Monitor,10,8
+67,Gear Assembly 065,Mechanical Components,MC-065,Defibrillator,94,5
+66,Ventilator Battery 064,Batteries,B-064,Patient Monitor,87,18
+65,Sensor Connector 063,Cables and Connectors,CAC-063,Defibrillator,80,15
+64,Oxygen Sensor 062,Sensors,S-062,Patient Monitor,73,12
+63,Power Adapter 061,Electrical Components,EC-061,Defibrillator,66,9
+62,Oxygen Tubing 060,Filters and Tubing,FAT-060,Ventilator,59,6
+61,Valve Assembly 059,Mechanical Components,MC-059,ECG Machine,52,19
+60,Portable Monitor Battery 058,Batteries,B-058,Ventilator,45,16
+59,Patient Cable 057,Cables and Connectors,CAC-057,ECG Machine,38,13
+58,Flow Sensor 056,Sensors,S-056,Ventilator,31,10
+57,Circuit Breaker 055,Electrical Components,EC-055,ECG Machine,24,7
+56,Ventilator Air Filter 054,Filters and Tubing,FAT-054,Multiple Equipment Types,17,20
+55,Cooling Fan 053,Mechanical Components,MC-053,Infusion Pump,10,17
+54,Backup Battery 052,Batteries,B-052,Multiple Equipment Types,94,14
+53,Power Cable 051,Cables and Connectors,CAC-051,Infusion Pump,87,11
+52,Temperature Sensor 050,Sensors,S-050,Multiple Equipment Types,80,8
+51,Control Board 049,Electrical Components,EC-049,Infusion Pump,73,5
+50,Ventilator Breathing Circuit Filter 048,Filters and Tubing,FAT-048,Defibrillator,66,18
+49,Mounting Bracket 047,Mechanical Components,MC-047,Patient Monitor,59,15
+48,Lithium Ion Battery 046,Batteries,B-046,Defibrillator,52,12
+47,ECG Lead Cable 045,Cables and Connectors,CAC-045,Patient Monitor,45,9
+46,Pressure Sensor 044,Sensors,S-044,Defibrillator,38,6
+45,Power Supply Module 043,Electrical Components,EC-043,Patient Monitor,31,19
+44,Suction Tubing 042,Filters and Tubing,FAT-042,ECG Machine,24,16
+43,Support Clamp 041,Mechanical Components,MC-041,Ventilator,17,13
+42,Rechargeable Battery Pack 040,Batteries,B-040,ECG Machine,10,10
+41,Probe Extension Cable 039,Cables and Connectors,CAC-039,Ventilator,94,7
+40,Proximity Sensor 038,Sensors,S-038,ECG Machine,87,20
+39,Relay Module 037,Electrical Components,EC-037,Ventilator,80,17
+38,Bacterial Filter 036,Filters and Tubing,FAT-036,Infusion Pump,73,14
+37,Panel Hinge 035,Mechanical Components,MC-035,Multiple Equipment Types,66,11
+36,Pump Battery 034,Batteries,B-034,Infusion Pump,59,8
+35,Mains Connector 033,Cables and Connectors,CAC-033,Multiple Equipment Types,52,5
+34,Airflow Sensor 032,Sensors,S-032,Infusion Pump,45,18
+33,Display Driver Board 031,Electrical Components,EC-031,Multiple Equipment Types,38,15
+32,Patient Circuit Tubing 030,Filters and Tubing,FAT-030,Patient Monitor,31,12
+31,Pump Motor 029,Mechanical Components,MC-029,Defibrillator,24,9
+30,Ventilator Battery 028,Batteries,B-028,Patient Monitor,17,6
+29,USB Data Cable 027,Cables and Connectors,CAC-027,Defibrillator,10,19
+28,SpO2 Sensor 026,Sensors,S-026,Patient Monitor,94,16
+27,Fuse Assembly 025,Electrical Components,EC-025,Defibrillator,87,13
+26,Air Intake Filter 024,Filters and Tubing,FAT-024,Ventilator,80,10
+25,Gear Assembly 023,Mechanical Components,MC-023,ECG Machine,73,7
+24,Portable Monitor Battery 022,Batteries,B-022,Ventilator,66,20
+23,Sensor Connector 021,Cables and Connectors,CAC-021,ECG Machine,59,17
+22,Oxygen Sensor 020,Sensors,S-020,Ventilator,52,14
+21,Power Adapter 019,Electrical Components,EC-019,ECG Machine,45,11
+20,Oxygen Tubing 018,Filters and Tubing,FAT-018,Multiple Equipment Types,38,8
+19,Valve Assembly 017,Mechanical Components,MC-017,Infusion Pump,31,5
+18,Backup Battery 016,Batteries,B-016,Multiple Equipment Types,24,18
+17,Patient Cable 015,Cables and Connectors,CAC-015,Infusion Pump,17,15
+16,Flow Sensor 014,Sensors,S-014,Multiple Equipment Types,10,12
+15,Circuit Breaker 013,Electrical Components,EC-013,Infusion Pump,94,9
+14,Ventilator Air Filter 012,Filters and Tubing,FAT-012,Defibrillator,87,6
+13,Cooling Fan 011,Mechanical Components,MC-011,Patient Monitor,80,19
+12,Lithium Ion Battery 010,Batteries,B-010,Defibrillator,73,16
+11,Power Cable 009,Cables and Connectors,CAC-009,Patient Monitor,66,13
+10,Temperature Sensor 008,Sensors,S-008,Defibrillator,59,10
+9,Control Board 007,Electrical Components,EC-007,Patient Monitor,52,7
+8,Ventilator Breathing Circuit Filter 006,Filters and Tubing,FAT-006,ECG Machine,45,20
+7,Mounting Bracket 005,Mechanical Components,MC-005,Ventilator,38,17
+6,Rechargeable Battery Pack 004,Batteries,B-004,ECG Machine,31,14
+5,ECG Lead Cable 003,Cables and Connectors,CAC-003,Ventilator,24,11
+4,Pressure Sensor 002,Sensors,S-002,ECG Machine,17,8
+3,Power Supply Module 001,Electrical Components,EC-001,Ventilator,10,5
+2,	Ventilator Breathing Circuit,Filters and Tubing,VBC-003,Ventilator,18,5
+1,Ventilator Air Filter,Filters and Tubing,VAF-001,Ventilator,25,5

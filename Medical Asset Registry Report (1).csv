@@ -1,0 +1,157 @@
+Asset ID,Asset Name,Equipment Type,Manufacturer,Model Number,Serial Number,Installation Date
+156,ECG Machine 100,ECG Machine,BPL,Cardiart 6208,ECG-100,13-Sep-2025
+155,Infusion Pump 099,Infusion Pump,B. Braun,Infusomat Space,IP-099,04-Sep-2025
+154,Patient Monitor 098,Patient Monitor,GE Healthcare,B450,MON-098,26-Aug-2025
+153,Ventilator 097,Ventilator,Philips,V60,VENT-097,17-Aug-2025
+152,Other 096,Other,Mindray,BeneVision,OTH-096,08-Aug-2025
+151,Pulse Oximeter 095,Pulse Oximeter,Masimo,Rad-5,PO-095,30-Jul-2025
+150,Syringe Pump 094,Syringe Pump,Medtronic,SP-100,SP-094,21-Jul-2025
+149,Defibrillator 093,Defibrillator,Zoll,R Series,DEF-093,12-Jul-2025
+148,ECG Machine 092,ECG Machine,BPL,Cardiart 6208,ECG-092,03-Jul-2025
+147,Infusion Pump 091,Infusion Pump,B. Braun,Infusomat Space,IP-091,24-Jun-2025
+146,Patient Monitor 090,Patient Monitor,GE Healthcare,B450,MON-090,15-Jun-2025
+145,Ventilator 089,Ventilator,Philips,V60,VENT-089,06-Jun-2025
+144,Other 088,Other,Mindray,BeneVision,OTH-088,28-May-2025
+143,Pulse Oximeter 087,Pulse Oximeter,Masimo,Rad-5,PO-087,19-May-2025
+142,Syringe Pump 086,Syringe Pump,Medtronic,SP-100,SP-086,10-May-2025
+141,Defibrillator 085,Defibrillator,Zoll,R Series,DEF-085,01-May-2025
+140,ECG Machine 084,ECG Machine,BPL,Cardiart 6208,ECG-084,22-Apr-2025
+139,Infusion Pump 083,Infusion Pump,B. Braun,Infusomat Space,IP-083,13-Apr-2025
+138,Patient Monitor 082,Patient Monitor,GE Healthcare,B450,MON-082,04-Apr-2025
+137,Ventilator 081,Ventilator,Philips,V60,VENT-081,26-Mar-2025
+136,Other 080,Other,Mindray,BeneVision,OTH-080,17-Mar-2025
+135,Pulse Oximeter 079,Pulse Oximeter,Masimo,Rad-5,PO-079,08-Mar-2025
+134,Syringe Pump 078,Syringe Pump,Medtronic,SP-100,SP-078,27-Feb-2025
+133,Defibrillator 077,Defibrillator,Zoll,R Series,DEF-077,18-Feb-2025
+132,ECG Machine 076,ECG Machine,BPL,Cardiart 6208,ECG-076,09-Feb-2025
+131,Infusion Pump 075,Infusion Pump,B. Braun,Infusomat Space,IP-075,31-Jan-2025
+130,Patient Monitor 074,Patient Monitor,GE Healthcare,B450,MON-074,22-Jan-2025
+129,Ventilator 073,Ventilator,Philips,V60,VENT-073,13-Jan-2025
+128,Other 072,Other,Mindray,BeneVision,OTH-072,16-Oct-2026
+127,Pulse Oximeter 071,Pulse Oximeter,Masimo,Rad-5,PO-071,07-Oct-2026
+126,Syringe Pump 070,Syringe Pump,Medtronic,SP-100,SP-070,28-Sep-2026
+125,Defibrillator 069,Defibrillator,Zoll,R Series,DEF-069,19-Sep-2026
+124,ECG Machine 068,ECG Machine,BPL,Cardiart 6208,ECG-068,10-Sep-2026
+123,Infusion Pump 067,Infusion Pump,B. Braun,Infusomat Space,IP-067,01-Sep-2026
+122,Patient Monitor 066,Patient Monitor,GE Healthcare,B450,MON-066,23-Aug-2026
+121,Ventilator 065,Ventilator,Philips,V60,VENT-065,14-Aug-2026
+120,Other 064,Other,Mindray,BeneVision,OTH-064,05-Aug-2026
+119,Pulse Oximeter 063,Pulse Oximeter,Masimo,Rad-5,PO-063,27-Jul-2026
+118,Syringe Pump 062,Syringe Pump,Medtronic,SP-100,SP-062,18-Jul-2026
+117,Defibrillator 061,Defibrillator,Zoll,R Series,DEF-061,09-Jul-2026
+116,ECG Machine 060,ECG Machine,BPL,Cardiart 6208,ECG-060,30-Jun-2026
+115,Infusion Pump 059,Infusion Pump,B. Braun,Infusomat Space,IP-059,21-Jun-2026
+114,Patient Monitor 058,Patient Monitor,GE Healthcare,B450,MON-058,12-Jun-2026
+113,Ventilator 057,Ventilator,Philips,V60,VENT-057,03-Jun-2026
+112,Other 056,Other,Mindray,BeneVision,OTH-056,25-May-2026
+111,Pulse Oximeter 055,Pulse Oximeter,Masimo,Rad-5,PO-055,16-May-2026
+110,Syringe Pump 054,Syringe Pump,Medtronic,SP-100,SP-054,07-May-2026
+109,Defibrillator 053,Defibrillator,Zoll,R Series,DEF-053,28-Apr-2026
+108,ECG Machine 052,ECG Machine,BPL,Cardiart 6208,ECG-052,19-Apr-2026
+107,Infusion Pump 051,Infusion Pump,B. Braun,Infusomat Space,IP-051,10-Apr-2026
+106,Patient Monitor 050,Patient Monitor,GE Healthcare,B450,MON-050,01-Apr-2026
+105,Ventilator 049,Ventilator,Philips,V60,VENT-049,23-Mar-2026
+104,Other 048,Other,Mindray,BeneVision,OTH-048,14-Mar-2026
+103,Pulse Oximeter 047,Pulse Oximeter,Masimo,Rad-5,PO-047,05-Mar-2026
+102,Syringe Pump 046,Syringe Pump,Medtronic,SP-100,SP-046,24-Feb-2026
+101,Defibrillator 045,Defibrillator,Zoll,R Series,DEF-045,15-Feb-2026
+100,ECG Machine 044,ECG Machine,BPL,Cardiart 6208,ECG-044,06-Feb-2026
+99,Infusion Pump 043,Infusion Pump,B. Braun,Infusomat Space,IP-043,28-Jan-2026
+98,Patient Monitor 042,Patient Monitor,GE Healthcare,B450,MON-042,19-Jan-2026
+97,Ventilator 041,Ventilator,Philips,V60,VENT-041,10-Jan-2026
+96,Other 040,Other,Mindray,BeneVision,OTH-040,01-Jan-2026
+95,Pulse Oximeter 039,Pulse Oximeter,Masimo,Rad-5,PO-039,23-Dec-2025
+94,Syringe Pump 038,Syringe Pump,Medtronic,SP-100,SP-038,14-Dec-2025
+93,Defibrillator 037,Defibrillator,Zoll,R Series,DEF-037,05-Dec-2025
+92,ECG Machine 036,ECG Machine,BPL,Cardiart 6208,ECG-036,26-Nov-2025
+91,Infusion Pump 035,Infusion Pump,B. Braun,Infusomat Space,IP-035,17-Nov-2025
+90,Patient Monitor 034,Patient Monitor,GE Healthcare,B450,MON-034,08-Nov-2025
+89,Ventilator 033,Ventilator,Philips,V60,VENT-033,30-Oct-2025
+88,Other 032,Other,Mindray,BeneVision,OTH-032,21-Oct-2025
+87,Pulse Oximeter 031,Pulse Oximeter,Masimo,Rad-5,PO-031,12-Oct-2025
+86,Syringe Pump 030,Syringe Pump,Medtronic,SP-100,SP-030,03-Oct-2025
+85,Defibrillator 029,Defibrillator,Zoll,R Series,DEF-029,24-Sep-2025
+84,ECG Machine 028,ECG Machine,BPL,Cardiart 6208,ECG-028,15-Sep-2025
+83,Infusion Pump 027,Infusion Pump,B. Braun,Infusomat Space,IP-027,06-Sep-2025
+82,Patient Monitor 026,Patient Monitor,GE Healthcare,B450,MON-026,28-Aug-2025
+81,Ventilator 025,Ventilator,Philips,V60,VENT-025,19-Aug-2025
+80,Other 024,Other,Mindray,BeneVision,OTH-024,10-Aug-2025
+79,Pulse Oximeter 023,Pulse Oximeter,Masimo,Rad-5,PO-023,01-Aug-2025
+78,Syringe Pump 022,Syringe Pump,Medtronic,SP-100,SP-022,23-Jul-2025
+77,Defibrillator 021,Defibrillator,Zoll,R Series,DEF-021,14-Jul-2025
+76,ECG Machine 020,ECG Machine,BPL,Cardiart 6208,ECG-020,05-Jul-2025
+75,Infusion Pump 019,Infusion Pump,B. Braun,Infusomat Space,IP-019,26-Jun-2025
+74,Patient Monitor 018,Patient Monitor,GE Healthcare,B450,MON-018,17-Jun-2025
+73,Ventilator 017,Ventilator,Philips,V60,VENT-017,08-Jun-2025
+72,Other 016,Other,Mindray,BeneVision,OTH-016,30-May-2025
+71,Pulse Oximeter 015,Pulse Oximeter,Masimo,Rad-5,PO-015,21-May-2025
+70,Syringe Pump 014,Syringe Pump,Medtronic,SP-100,SP-014,12-May-2025
+69,Defibrillator 013,Defibrillator,Zoll,R Series,DEF-013,03-May-2025
+68,ECG Machine 012,ECG Machine,BPL,Cardiart 6208,ECG-012,24-Apr-2025
+67,Infusion Pump 011,Infusion Pump,B. Braun,Infusomat Space,IP-011,15-Apr-2025
+66,Patient Monitor 010,Patient Monitor,GE Healthcare,B450,MON-010,06-Apr-2025
+65,Ventilator 009,Ventilator,Philips,V60,VENT-009,28-Mar-2025
+64,Other 008,Other,Mindray,BeneVision,OTH-008,19-Mar-2025
+63,Pulse Oximeter 007,Pulse Oximeter,Masimo,Rad-5,PO-007,10-Mar-2025
+62,Syringe Pump 006,Syringe Pump,Medtronic,SP-100,SP-006,01-Mar-2025
+61,Defibrillator 005,Defibrillator,Zoll,R Series,DEF-005,20-Feb-2025
+60,ECG Machine 004,ECG Machine,BPL,Cardiart 6208,ECG-004,11-Feb-2025
+59,Infusion Pump 003,Infusion Pump,B. Braun,Infusomat Space,IP-003,02-Feb-2025
+58,Patient Monitor 002,Patient Monitor,GE Healthcare,B450,MON-002,24-Jan-2025
+57,Ventilator 001,Ventilator,Philips,V60,VENT-001,15-Jan-2025
+56,Pulse Oximeter 100,Pulse Oximeter,Masimo,Rad-5,PO-100,13-Sep-2025
+55,Syringe Pump 097,Syringe Pump,Medtronic,SP-100,SP-097,17-Aug-2025
+54,Infusion Pump 095,Infusion Pump,B. Braun,Infusomat Space,IP-095,30-Jul-2025
+53,Defibrillator 094,Defibrillator,Zoll,R Series,DEF-094,21-Jul-2025
+52,ECG Machine 093,ECG Machine,BPL,Cardiart 6208,ECG-093,12-Jul-2025
+51,Patient Monitor 092,Patient Monitor,GE Healthcare,B450,MON-092,03-Jul-2025
+50,Ventilator 091,Ventilator,Philips,V60,VENT-091,24-Jun-2025
+49,Pulse Oximeter 085,Pulse Oximeter,Masimo,Rad-5,PO-085,01-May-2025
+48,Syringe Pump 082,Syringe Pump,Medtronic,SP-100,SP-082,04-Apr-2025
+47,Infusion Pump 080,Infusion Pump,B. Braun,Infusomat Space,IP-080,17-Mar-2025
+46,Defibrillator 079,Defibrillator,Zoll,R Series,DEF-079,08-Mar-2025
+45,ECG Machine 078,ECG Machine,BPL,Cardiart 6208,ECG-078,27-Feb-2025
+44,Patient Monitor 077,Patient Monitor,GE Healthcare,B450,MON-077,18-Feb-2025
+43,Ventilator 076,Ventilator,Philips,V60,VENT-076,09-Feb-2025
+42,Pulse Oximeter 070,Pulse Oximeter,Masimo,Rad-5,PO-070,28-Sep-2026
+41,Syringe Pump 067,Syringe Pump,Medtronic,SP-100,SP-067,01-Sep-2026
+40,Infusion Pump 065,Infusion Pump,B. Braun,Infusomat Space,IP-065,14-Aug-2026
+39,Defibrillator 064,Defibrillator,Zoll,R Series,DEF-064,05-Aug-2026
+38,ECG Machine 063,ECG Machine,BPL,Cardiart 6208,ECG-063,27-Jul-2026
+37,Patient Monitor 062,Patient Monitor,GE Healthcare,B450,MON-062,18-Jul-2026
+36,Ventilator 061,Ventilator,Philips,V60,VENT-061,09-Jul-2026
+35,Pulse Oximeter 055,Pulse Oximeter,Masimo,Rad-5,PO-055,16-May-2026
+34,Syringe Pump 052,Syringe Pump,Medtronic,SP-100,SP-052,19-Apr-2026
+33,Infusion Pump 050,Infusion Pump,B. Braun,Infusomat Space,IP-050,01-Apr-2026
+32,Defibrillator 049,Defibrillator,Zoll,R Series,DEF-049,23-Mar-2026
+31,ECG Machine 048,ECG Machine,BPL,Cardiart 6208,ECG-048,14-Mar-2026
+30,Patient Monitor 047,Patient Monitor,GE Healthcare,B450,MON-047,05-Mar-2026
+29,Ventilator 046,Ventilator,Philips,V60,VENT-046,24-Feb-2026
+28,Pulse Oximeter 040,Pulse Oximeter,Masimo,Rad-5,PO-040,01-Jan-2026
+27,Syringe Pump 037,Syringe Pump,Medtronic,SP-100,SP-037,05-Dec-2025
+26,Infusion Pump 035,Infusion Pump,B. Braun,Infusomat Space,IP-035,17-Nov-2025
+25,Defibrillator 034,Defibrillator,Zoll,R Series,DEF-034,08-Nov-2025
+24,ECG Machine 033,ECG Machine,BPL,Cardiart 6208,ECG-033,30-Oct-2025
+23,Patient Monitor 032,Patient Monitor,GE Healthcare,B450,MON-032,21-Oct-2025
+22,Ventilator 031,Ventilator,Philips,V60,VENT-031,12-Oct-2025
+21,Pulse Oximeter 025,Pulse Oximeter,Masimo,Rad-5,PO-025,19-Aug-2025
+20,Syringe Pump 022,Syringe Pump,Medtronic,SP-100,SP-022,23-Jul-2025
+19,Infusion Pump 020,Infusion Pump,B. Braun,Infusomat Space,IP-020,05-Jul-2025
+18,Defibrillator 019,Defibrillator,Zoll,R Series,DEF-019,26-Jun-2025
+17,ECG Machine 018,ECG Machine,BPL,Cardiart 6208,ECG-018,17-Jun-2025
+16,Patient Monitor 017,Patient Monitor,GE Healthcare,B450,MON-017,08-Jun-2025
+15,Ventilator 016,Ventilator,Philips,V60,VENT-016,30-May-2025
+14,Pulse Oximeter 010,Pulse Oximeter,Masimo,Rad-5,PO-010,06-Apr-2025
+13,Syringe Pump 007,Syringe Pump,Medtronic,SP-100,SP-007,10-Mar-2025
+12,Infusion Pump 005,Infusion Pump,B. Braun,Infusomat Space,IP-005,20-Feb-2025
+11,Defibrillator 004,Defibrillator,Zoll,R Series,DEF-004,11-Feb-2025
+10,ECG Machine 003,ECG Machine,BPL,Cardiart 6208,ECG-003,02-Feb-2025
+9,Patient Monitor 002,Patient Monitor,GE Healthcare,B450,MON-002,24-Jan-2025
+8,Ventilator 001,Ventilator,Philips,V60,VENT-001,15-Jan-2025
+7,Oxygen Concentrator 001,Pulse Oximeter,Philips,EverFlo,PH-OC-001,01-Nov-2026
+6,Infusion Pump 001,Infusion Pump,B. Braun,Infusomat Space,BB-IP-001,13-Oct-2026
+5,Defibrillator 001,Defibrillator,Zoll,R Series,ZL-DEF-001,12-Oct-2026
+4,	ECG Machine 001,ECG Machine,	BPL,Cardiart 6208,BPL-ECG-001,14-Oct-2026
+3,Cardiac Monitor 001,Patient Monitor,GE Healthcare,B450,GE-CM-001,01-Nov-2026
+2,ICU Ventilator 002,Ventilator,Philips,V60,PH-VENT-002,01-Oct-2026
+1,ICU Ventilator 001,ECG Machine,-,100023,001,01-Oct-2026

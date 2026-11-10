@@ -1,0 +1,210 @@
+ICU ID,ICU Name,Hospital Management,Department Name,ICU Location,Bed Capacity,ICU Status
+1,001,Chennai Central Hospital,Medical ICU,chennai,4,Active
+4,General ICU 1,Chennai Central Hospital,General ICU,"Block A, Floor 2",20,Active
+5,	Cardiac ICU 1,	Apollo City Hospital,Cardiac ICU,"Block B, Floor 3",15,Active
+6,Neuro ICU 1,Green Life Medical Centre,Neurological ICU,"	Block A, Floor 1",12,Active
+7,	Surgical ICU 1,	Sunrise Multispeciality Hospital,Surgical ICU,"Block C, Floor 2",18,Active
+8,Pediatric ICU 1,	City Health Hospital,Pediatric ICU,"Block B, Floor 1",10,Active
+9,	Emergency ICU 1,Metro Multispeciality Hospital,Medical ICU,"Block A, Ground Floor",16,Active
+10,Medical ICU 1,Green Life Medical Centre,General ICU,"Block D, Floor 2",22,Active
+11,MedicalICU 001,,Medical ICU,"Block A, Floor 1",8,Active
+12,SurgicalICU 002,,Surgical ICU,"Block B, Floor 2",15,Under Maintenance
+13,CardiacICU 003,,Cardiac ICU,"Block C, Floor 2",22,Inactive
+14,NeurologicalICU 004,,Neurological ICU,"Main Building, Floor 3",29,Active
+15,PediatricICU 005,,Pediatric ICU,"Block B, Floor 1",11,Under Maintenance
+16,NeonatalICU 006,,Neonatal ICU,"Block C, Floor 2",18,Inactive
+17,GeneralICU 007,,General ICU,"Main Building, Floor 3",25,Active
+18,MedicalICU 008,,Medical ICU,"Block B, Floor 1",32,Active
+19,SurgicalICU 009,,Surgical ICU,"Block C, Floor 1",14,Under Maintenance
+20,CardiacICU 010,,Cardiac ICU,"West Wing, Floor 2",21,Inactive
+21,NeurologicalICU 011,,Neurological ICU,"Block B, Floor 1",28,Active
+22,PediatricICU 012,,Pediatric ICU,"Block C, Floor 1",10,Under Maintenance
+23,NeonatalICU 013,,Neonatal ICU,"West Wing, Floor 2",17,Inactive
+24,GeneralICU 014,,General ICU,"Block A, Floor 2",24,Active
+25,MedicalICU 015,,Medical ICU,"Block B, Floor 3",31,Active
+26,SurgicalICU 016,,Surgical ICU,"West Wing, Floor 2",13,Under Maintenance
+27,CardiacICU 017,,Cardiac ICU,"Block A, Floor 2",20,Inactive
+28,NeurologicalICU 018,,Neurological ICU,"Block B, Floor 3",27,Active
+29,PediatricICU 019,,Pediatric ICU,"East Wing, Floor 1",9,Under Maintenance
+30,NeonatalICU 020,,Neonatal ICU,"Block A, Floor 1",16,Inactive
+31,GeneralICU 021,,General ICU,"Block B, Floor 3",23,Active
+32,MedicalICU 022,,Medical ICU,"East Wing, Floor 1",30,Active
+33,SurgicalICU 023,,Surgical ICU,"Block A, Floor 1",12,Under Maintenance
+34,CardiacICU 024,,Cardiac ICU,"Block B, Floor 2",19,Inactive
+35,NeurologicalICU 025,,Neurological ICU,"Block C, Floor 2",26,Active
+36,PediatricICU 026,,Pediatric ICU,"Block A, Floor 1",8,Under Maintenance
+37,NeonatalICU 027,,Neonatal ICU,"Block B, Floor 2",15,Inactive
+38,GeneralICU 028,,General ICU,"Block C, Floor 2",22,Active
+39,MedicalICU 029,,Medical ICU,"Main Building, Floor 3",29,Active
+40,SurgicalICU 030,,Surgical ICU,"Block B, Floor 1",11,Under Maintenance
+41,CardiacICU 031,,Cardiac ICU,"Block C, Floor 2",18,Inactive
+42,NeurologicalICU 032,,Neurological ICU,"Main Building, Floor 3",25,Active
+43,PediatricICU 033,,Pediatric ICU,"Block B, Floor 1",32,Under Maintenance
+44,NeonatalICU 034,,Neonatal ICU,"Block C, Floor 1",14,Inactive
+45,GeneralICU 035,,General ICU,"West Wing, Floor 2",21,Active
+46,MedicalICU 036,,Medical ICU,"Block B, Floor 1",28,Active
+47,SurgicalICU 037,,Surgical ICU,"Block C, Floor 1",10,Under Maintenance
+48,CardiacICU 038,,Cardiac ICU,"West Wing, Floor 2",17,Inactive
+49,NeurologicalICU 039,,Neurological ICU,"Block A, Floor 2",24,Active
+50,PediatricICU 040,,Pediatric ICU,"Block B, Floor 3",31,Under Maintenance
+51,NeonatalICU 041,,Neonatal ICU,"West Wing, Floor 2",13,Inactive
+52,GeneralICU 042,,General ICU,"Block A, Floor 2",20,Active
+53,MedicalICU 043,,Medical ICU,"Block B, Floor 3",27,Active
+54,SurgicalICU 044,,Surgical ICU,"East Wing, Floor 1",9,Under Maintenance
+55,CardiacICU 045,,Cardiac ICU,"Block A, Floor 1",16,Inactive
+56,NeurologicalICU 046,,Neurological ICU,"Block B, Floor 3",23,Active
+57,PediatricICU 047,,Pediatric ICU,"East Wing, Floor 1",30,Under Maintenance
+58,NeonatalICU 048,,Neonatal ICU,"Block A, Floor 1",12,Inactive
+59,GeneralICU 049,,General ICU,"Block B, Floor 2",19,Active
+60,MedicalICU 050,,Medical ICU,"Block C, Floor 2",26,Active
+61,SurgicalICU 051,,Surgical ICU,"Block A, Floor 1",8,Under Maintenance
+62,CardiacICU 052,,Cardiac ICU,"Block B, Floor 2",15,Inactive
+63,NeurologicalICU 053,,Neurological ICU,"Block C, Floor 2",22,Active
+64,PediatricICU 054,,Pediatric ICU,"Main Building, Floor 3",29,Under Maintenance
+65,NeonatalICU 055,,Neonatal ICU,"Block B, Floor 1",11,Inactive
+66,GeneralICU 056,,General ICU,"Block C, Floor 2",18,Active
+67,MedicalICU 057,,Medical ICU,"Main Building, Floor 3",25,Active
+68,SurgicalICU 058,,Surgical ICU,"Block B, Floor 1",32,Under Maintenance
+69,CardiacICU 059,,Cardiac ICU,"Block C, Floor 1",14,Inactive
+70,NeurologicalICU 060,,Neurological ICU,"West Wing, Floor 2",21,Active
+71,PediatricICU 061,,Pediatric ICU,"Block B, Floor 1",28,Under Maintenance
+72,NeonatalICU 062,,Neonatal ICU,"Block C, Floor 1",10,Inactive
+73,GeneralICU 063,,General ICU,"West Wing, Floor 2",17,Active
+74,MedicalICU 064,,Medical ICU,"Block A, Floor 2",24,Active
+75,SurgicalICU 065,,Surgical ICU,"Block B, Floor 3",31,Under Maintenance
+76,CardiacICU 066,,Cardiac ICU,"West Wing, Floor 2",13,Inactive
+77,NeurologicalICU 067,,Neurological ICU,"Block A, Floor 2",20,Active
+78,PediatricICU 068,,Pediatric ICU,"Block B, Floor 3",27,Under Maintenance
+79,NeonatalICU 069,,Neonatal ICU,"East Wing, Floor 1",9,Inactive
+80,GeneralICU 070,,General ICU,"Block A, Floor 1",16,Active
+81,MedicalICU 071,,Medical ICU,"Block B, Floor 3",23,Active
+82,SurgicalICU 072,,Surgical ICU,"East Wing, Floor 1",30,Under Maintenance
+83,CardiacICU 073,,Cardiac ICU,"Block A, Floor 1",12,Inactive
+84,NeurologicalICU 074,,Neurological ICU,"Block B, Floor 2",19,Active
+85,PediatricICU 075,,Pediatric ICU,"Block C, Floor 2",26,Under Maintenance
+86,NeonatalICU 076,,Neonatal ICU,"Block A, Floor 1",8,Inactive
+87,GeneralICU 077,,General ICU,"Block B, Floor 2",15,Active
+88,MedicalICU 078,,Medical ICU,"Block C, Floor 2",22,Active
+89,SurgicalICU 079,,Surgical ICU,"Main Building, Floor 3",29,Under Maintenance
+90,CardiacICU 080,,Cardiac ICU,"Block B, Floor 1",11,Inactive
+91,NeurologicalICU 081,,Neurological ICU,"Block C, Floor 2",18,Active
+92,PediatricICU 082,,Pediatric ICU,"Main Building, Floor 3",25,Under Maintenance
+93,NeonatalICU 083,,Neonatal ICU,"Block B, Floor 1",32,Inactive
+94,GeneralICU 084,,General ICU,"Block C, Floor 1",14,Active
+95,MedicalICU 085,,Medical ICU,"West Wing, Floor 2",21,Active
+96,SurgicalICU 086,,Surgical ICU,"Block B, Floor 1",28,Under Maintenance
+97,CardiacICU 087,,Cardiac ICU,"Block C, Floor 1",10,Inactive
+98,NeurologicalICU 088,,Neurological ICU,"West Wing, Floor 2",17,Active
+99,PediatricICU 089,,Pediatric ICU,"Block A, Floor 2",24,Under Maintenance
+100,NeonatalICU 090,,Neonatal ICU,"Block B, Floor 3",31,Inactive
+101,GeneralICU 091,,General ICU,"West Wing, Floor 2",13,Active
+102,MedicalICU 092,,Medical ICU,"Block A, Floor 2",20,Active
+103,SurgicalICU 093,,Surgical ICU,"Block B, Floor 3",27,Under Maintenance
+104,CardiacICU 094,,Cardiac ICU,"East Wing, Floor 1",9,Inactive
+105,NeurologicalICU 095,,Neurological ICU,"Block A, Floor 1",16,Active
+106,PediatricICU 096,,Pediatric ICU,"Block B, Floor 3",23,Under Maintenance
+107,NeonatalICU 097,,Neonatal ICU,"East Wing, Floor 1",30,Inactive
+108,GeneralICU 098,,General ICU,"Block A, Floor 1",12,Active
+109,MedicalICU 099,,Medical ICU,"Block B, Floor 2",19,Active
+110,SurgicalICU 100,,Surgical ICU,"Block C, Floor 2",26,Under Maintenance
+111,CardiacICU 101,,Cardiac ICU,"Block A, Floor 1",8,Inactive
+112,NeurologicalICU 102,,Neurological ICU,"Block B, Floor 2",15,Active
+113,PediatricICU 103,,Pediatric ICU,"Block C, Floor 2",22,Under Maintenance
+114,NeonatalICU 104,,Neonatal ICU,"Main Building, Floor 3",29,Inactive
+115,GeneralICU 105,,General ICU,"Block B, Floor 1",11,Active
+116,MedicalICU 106,,Medical ICU,"Block C, Floor 2",18,Active
+117,SurgicalICU 107,,Surgical ICU,"Main Building, Floor 3",25,Under Maintenance
+118,CardiacICU 108,,Cardiac ICU,"Block B, Floor 1",32,Inactive
+119,NeurologicalICU 109,,Neurological ICU,"Block C, Floor 1",14,Active
+120,PediatricICU 110,,Pediatric ICU,"West Wing, Floor 2",21,Under Maintenance
+121,NeonatalICU 111,,Neonatal ICU,"Block B, Floor 1",28,Inactive
+122,GeneralICU 112,,General ICU,"Block C, Floor 1",10,Active
+123,MedicalICU 113,,Medical ICU,"West Wing, Floor 2",17,Active
+124,SurgicalICU 114,,Surgical ICU,"Block A, Floor 2",24,Under Maintenance
+125,CardiacICU 115,,Cardiac ICU,"Block B, Floor 3",31,Inactive
+126,NeurologicalICU 116,,Neurological ICU,"West Wing, Floor 2",13,Active
+127,PediatricICU 117,,Pediatric ICU,"Block A, Floor 2",20,Under Maintenance
+128,NeonatalICU 118,,Neonatal ICU,"Block B, Floor 3",27,Inactive
+129,GeneralICU 119,,General ICU,"East Wing, Floor 1",9,Active
+130,MedicalICU 120,,Medical ICU,"Block A, Floor 1",16,Active
+131,SurgicalICU 121,,Surgical ICU,"Block B, Floor 3",23,Under Maintenance
+132,CardiacICU 122,,Cardiac ICU,"East Wing, Floor 1",30,Inactive
+133,NeurologicalICU 123,,Neurological ICU,"Block A, Floor 1",12,Active
+134,PediatricICU 124,,Pediatric ICU,"Block B, Floor 2",19,Under Maintenance
+135,NeonatalICU 125,,Neonatal ICU,"Block C, Floor 2",26,Inactive
+136,GeneralICU 126,,General ICU,"Block A, Floor 1",8,Active
+137,MedicalICU 127,,Medical ICU,"Block B, Floor 2",15,Active
+138,SurgicalICU 128,,Surgical ICU,"Block C, Floor 2",22,Under Maintenance
+139,CardiacICU 129,,Cardiac ICU,"Main Building, Floor 3",29,Inactive
+140,NeurologicalICU 130,,Neurological ICU,"Block B, Floor 1",11,Active
+141,PediatricICU 131,,Pediatric ICU,"Block C, Floor 2",18,Under Maintenance
+142,NeonatalICU 132,,Neonatal ICU,"Main Building, Floor 3",25,Inactive
+143,GeneralICU 133,,General ICU,"Block B, Floor 1",32,Active
+144,MedicalICU 134,,Medical ICU,"Block C, Floor 1",14,Active
+145,SurgicalICU 135,,Surgical ICU,"West Wing, Floor 2",21,Under Maintenance
+146,CardiacICU 136,,Cardiac ICU,"Block B, Floor 1",28,Inactive
+147,NeurologicalICU 137,,Neurological ICU,"Block C, Floor 1",10,Active
+148,PediatricICU 138,,Pediatric ICU,"West Wing, Floor 2",17,Under Maintenance
+149,NeonatalICU 139,,Neonatal ICU,"Block A, Floor 2",24,Inactive
+150,GeneralICU 140,,General ICU,"Block B, Floor 3",31,Active
+151,MedicalICU 141,,Medical ICU,"West Wing, Floor 2",13,Active
+152,SurgicalICU 142,,Surgical ICU,"Block A, Floor 2",20,Under Maintenance
+153,CardiacICU 143,,Cardiac ICU,"Block B, Floor 3",27,Inactive
+154,NeurologicalICU 144,,Neurological ICU,"East Wing, Floor 1",9,Active
+155,PediatricICU 145,,Pediatric ICU,"Block A, Floor 1",16,Under Maintenance
+156,NeonatalICU 146,,Neonatal ICU,"Block B, Floor 3",23,Inactive
+157,GeneralICU 147,,General ICU,"East Wing, Floor 1",30,Active
+158,MedicalICU 148,,Medical ICU,"Block A, Floor 1",12,Active
+159,SurgicalICU 149,,Surgical ICU,"Block B, Floor 2",19,Under Maintenance
+160,CardiacICU 150,,Cardiac ICU,"Block C, Floor 2",26,Inactive
+161,NeurologicalICU 151,,Neurological ICU,"Block A, Floor 1",8,Active
+162,PediatricICU 152,,Pediatric ICU,"Block B, Floor 2",15,Under Maintenance
+163,NeonatalICU 153,,Neonatal ICU,"Block C, Floor 2",22,Inactive
+164,GeneralICU 154,,General ICU,"Main Building, Floor 3",29,Active
+165,MedicalICU 155,,Medical ICU,"Block B, Floor 1",11,Active
+166,SurgicalICU 156,,Surgical ICU,"Block C, Floor 2",18,Under Maintenance
+167,CardiacICU 157,,Cardiac ICU,"Main Building, Floor 3",25,Inactive
+168,NeurologicalICU 158,,Neurological ICU,"Block B, Floor 1",32,Active
+169,PediatricICU 159,,Pediatric ICU,"Block C, Floor 1",14,Under Maintenance
+170,NeonatalICU 160,,Neonatal ICU,"West Wing, Floor 2",21,Inactive
+171,GeneralICU 161,,General ICU,"Block B, Floor 1",28,Active
+172,MedicalICU 162,,Medical ICU,"Block C, Floor 1",10,Active
+173,SurgicalICU 163,,Surgical ICU,"West Wing, Floor 2",17,Under Maintenance
+174,CardiacICU 164,,Cardiac ICU,"Block A, Floor 2",24,Inactive
+175,NeurologicalICU 165,,Neurological ICU,"Block B, Floor 3",31,Active
+176,PediatricICU 166,,Pediatric ICU,"West Wing, Floor 2",13,Under Maintenance
+177,NeonatalICU 167,,Neonatal ICU,"Block A, Floor 2",20,Inactive
+178,GeneralICU 168,,General ICU,"Block B, Floor 3",27,Active
+179,MedicalICU 169,,Medical ICU,"East Wing, Floor 1",9,Active
+180,SurgicalICU 170,,Surgical ICU,"Block A, Floor 1",16,Under Maintenance
+181,CardiacICU 171,,Cardiac ICU,"Block B, Floor 3",23,Inactive
+182,NeurologicalICU 172,,Neurological ICU,"East Wing, Floor 1",30,Active
+183,PediatricICU 173,,Pediatric ICU,"Block A, Floor 1",12,Under Maintenance
+184,NeonatalICU 174,,Neonatal ICU,"Block B, Floor 2",19,Inactive
+185,GeneralICU 175,,General ICU,"Block C, Floor 2",26,Active
+186,MedicalICU 176,,Medical ICU,"Block A, Floor 1",8,Active
+187,SurgicalICU 177,,Surgical ICU,"Block B, Floor 2",15,Under Maintenance
+188,CardiacICU 178,,Cardiac ICU,"Block C, Floor 2",22,Inactive
+189,NeurologicalICU 179,,Neurological ICU,"Main Building, Floor 3",29,Active
+190,PediatricICU 180,,Pediatric ICU,"Block B, Floor 1",11,Under Maintenance
+191,NeonatalICU 181,,Neonatal ICU,"Block C, Floor 2",18,Inactive
+192,GeneralICU 182,,General ICU,"Main Building, Floor 3",25,Active
+193,MedicalICU 183,,Medical ICU,"Block B, Floor 1",32,Active
+194,SurgicalICU 184,,Surgical ICU,"Block C, Floor 1",14,Under Maintenance
+195,CardiacICU 185,,Cardiac ICU,"West Wing, Floor 2",21,Inactive
+196,NeurologicalICU 186,,Neurological ICU,"Block B, Floor 1",28,Active
+197,PediatricICU 187,,Pediatric ICU,"Block C, Floor 1",10,Under Maintenance
+198,NeonatalICU 188,,Neonatal ICU,"West Wing, Floor 2",17,Inactive
+199,GeneralICU 189,,General ICU,"Block A, Floor 2",24,Active
+200,MedicalICU 190,,Medical ICU,"Block B, Floor 3",31,Active
+201,SurgicalICU 191,,Surgical ICU,"West Wing, Floor 2",13,Under Maintenance
+202,CardiacICU 192,,Cardiac ICU,"Block A, Floor 2",20,Inactive
+203,NeurologicalICU 193,,Neurological ICU,"Block B, Floor 3",27,Active
+204,PediatricICU 194,,Pediatric ICU,"East Wing, Floor 1",9,Under Maintenance
+205,NeonatalICU 195,,Neonatal ICU,"Block A, Floor 1",16,Inactive
+206,GeneralICU 196,,General ICU,"Block B, Floor 3",23,Active
+207,MedicalICU 197,,Medical ICU,"East Wing, Floor 1",30,Active
+208,SurgicalICU 198,,Surgical ICU,"Block A, Floor 1",12,Under Maintenance
+209,CardiacICU 199,,Cardiac ICU,"Block B, Floor 2",19,Inactive
+210,NeurologicalICU 200,,Neurological ICU,"Block C, Floor 2",26,Active
+211,ICU,	Apollo City Hospital,Surgical ICU,A block 1st floor,20,Active
